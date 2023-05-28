@@ -1,8 +1,8 @@
 {
-  "name": "methods",
+  "name": "regex1",
   "version": "1.0.0",
   "description": "",
-  "main": "src/js/validator.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest --coverage ",
     "lint": "eslint .",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Liaksej/afp-oop-methods.git"
+    "url": "git+https://github.com/Liaksej/ajs-regex1.git"
   },
   "author": "Liaksej",
   "license": "ISC",
